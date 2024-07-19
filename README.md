@@ -1,7 +1,7 @@
 Name: UTKARSH KUMAR 
 Company: CODTECH IT SOLUTIONS 
 ID: CT08DS3384 Domain: Data Science 
-Duration: July to August 2024 
+Duration: June to July 2024 
 Mentor: Neela Santhosh Kumar
 
 Overview of the Project
